@@ -1,0 +1,7 @@
+﻿  Programowanie_1.cpp
+c:\users\tomi\source\repos\programowanie_1\programowanie_1\programowanie_1.cpp(1): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  c:\users\tomi\source\repos\programowanie_1\programowanie_1\programowanie_1.cpp: note: see previous definition of '_CRT_SECURE_NO_WARNINGS'
+c:\users\tomi\source\repos\programowanie_1\programowanie_1\programowanie_1.cpp(1): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  c:\users\tomi\source\repos\programowanie_1\programowanie_1\programowanie_1.cpp(1): note: Add macro to precompiled header instead of defining here
+  c:\users\tomi\source\repos\programowanie_1\programowanie_1\programowanie_1.cpp(2): note: use of precompiled header
+  Programowanie_1.vcxproj -> C:\Users\tomi\source\repos\Programowanie_1\Debug\Programowanie_1.exe
